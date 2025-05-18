@@ -1,0 +1,19 @@
+{
+  "name": "zkhub Token List",
+  "timestamp": "2025-05-18T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 12345,
+      "address": "0x7D217325C18781F58827E99E32951D551Ebf36De",
+      "name": "zkhub",
+      "symbol": "zk",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreifshzdu6pwaptsrb277gxunclfhjw5sveirlyeus53swbz52ivnwi"
+    }
+  ]
+}
